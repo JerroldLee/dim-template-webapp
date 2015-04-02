@@ -1,2 +1,2 @@
-scrat-template-webapp
+dim-template-webapp
 =====================
